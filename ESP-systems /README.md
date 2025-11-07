@@ -29,8 +29,9 @@ O projeto foi desenvolvido em **Arduino / ESP32**, utilizando bibliotecas extern
 
 <img width="1364" height="723" alt="DHT22PROJETO" src="https://github.com/user-attachments/assets/2dffb58c-7ab0-45fe-b56b-43b018504bac" />
 
--[Baixar o código - sketch.ino](sketch.ino)
--https://wokwi.com/projects/446879601070768129
+- [Baixar o código - sketch.ino](sketch.ino)
+
+- https://wokwi.com/projects/446879601070768129
 
 ## Funcionalidades
 - Leitura de temperatura e umidade do sensor DHT22
